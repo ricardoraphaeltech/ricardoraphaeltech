@@ -2,16 +2,16 @@
 
 ## 💻 Sobre mim:
 <br>
-Meu nome é Ricardo, moro em Sorocaba São Paulo, sou Desenvolvedor Front-End e atualmente estou fazendo minha transição de carreira e me especializar para conseguir minha primeira oportunidade como Desenvolvedor Front-End Jr.<br> 
+Meu nome é Ricardo, moro em Sorocaba São Paulo, sou Desenvolvedor Front-End e atualmente estou fazendo minha transição de carreira e me especializando para conseguir minha primeira oportunidade como Desenvolvedor Front-End Jr.<br> 
 Estou aprendendo e criando projetos com as tecnologias:
 <br>
 <br>
-  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
-  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
-  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" />
-  - <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript-logo" />
-  - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python-logo" />
-  - <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma-logo" />
+  <img src="./img/logo-html.png" alt="html-logo" width="30px" />
+  <img src="./img/logo-css3.png" alt="css-logo" width="30px"/>
+  <img src="./img/logo-javascript.png" alt="javascript-logo" width="30px"/>
+  <img src="./img/logo-typescript.png" alt="typescript-logo" width="30px"/>
+  <img src="./img/logo-python.png" alt="python-logo" width="30px"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma-logo" />
 
 ## 📱 Contatos:
 <br>
