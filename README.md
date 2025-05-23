@@ -7,27 +7,35 @@
 ## 👨‍💻 Sobre mim:
 Meu nome é Ricardo, moro em Sorocaba São Paulo, sou Desenvolvedor Front-End e atualmente estou fazendo minha transição de carreira e me especializando para conseguir minha primeira oportunidade como Desenvolvedor Front-End Jr.<br>
 <br>
-Sou Desenvolvedor Front-End freelancer, estou cursando formação full-stack na instituição de ensino Devclub onde estou buscando conhecimento a partir de projetos práticos para me formar em um futuro Desenvolvedor Full-Stack.
+Como Desenvolvedor Front-End, estou focado em contruir experiências digitais excepcionais e interfaces intuitivas, estou cursando formação full-stack na instituição de ensino Devclub onde estou buscando conhecimento a partir de projetos práticos para me formar em um futuro Desenvolvedor Full-Stack.
 <br>
 
-## 🤖 Tecnologias:
+## 🤖 Linguagens e Tecnologias:
 <br>
-  <img src="./img/logo-html.png" alt="html-logo" width="45px" />
-  <img src="./img/logo-css3.png" alt="css-logo" width="45px"/>
-  <img src="./img/logo-javascript.png" alt="javascript-logo" width="45px"/>
-  <img src="./img/logo-typescript.png" alt="typescript-logo" width="45px"/>
-  <img src="./img/logo-python.png" alt="python-logo" width="45px"/>
+<div>
+  <img src="./img/logo-html.png" alt="html-logo" width="60px" />
+  <img src="./img/logo-css3.png" alt="css-logo" width="60px"/>
+  <img src="./img/logo-javascript.png" alt="javascript-logo" width="60px"/>
+  <img src="./img/logo-typescript.png" alt="typescript-logo" width="60px"/>
+  <img src="./img/logo-python.png" alt="python-logo" width="60px"/>    
+</div> 
 <br>
 
 ## 🎨 Ferramentas de Design:
 <br>
-  <img src="./img/logo-figma.png" alt="figma-logo" width="45px" />
-  <img src="./img/logo-coreldraw.png" alt="coreldraw-logo" width="45px" />
+  <div>
+    <img src="./img/logo-figma.png" alt="figma-logo" width="60px" />
+    <img src="./img/logo-coreldraw.png" alt="coreldraw-logo" width="60px" />
+  </div>
 <br>
 
 ## 💻 Estou buscando conhecimento em:
 <br>
-  <img src="./img" />
+  <div>
+    <img src="./img/logo-react.png" alt="react-logo" width="60px" />
+    <img src="./img/logo-angular.png" alt="angular-logo" width="60px" />
+    <img src="./img/logo-nodejs.png" alt="nodejs-logo" width="75px" />
+  </div>
 <br>
 
 ## 📱 Contatos:
