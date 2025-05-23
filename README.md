@@ -7,7 +7,7 @@
 ## 👨‍💻 Sobre mim:
 Meu nome é Ricardo, moro em Sorocaba São Paulo, sou Desenvolvedor Front-End e atualmente estou fazendo minha transição de carreira e me especializando para conseguir minha primeira oportunidade como Desenvolvedor Front-End Jr.<br>
 <br>
-Como Desenvolvedor Front-End, estou focado em contruir experiências digitais excepcionais e interfaces intuitivas, estou cursando formação full-stack na instituição de ensino Devclub onde estou buscando conhecimento a partir de projetos práticos para me formar em um futuro Desenvolvedor Full-Stack.
+Como Desenvolvedor Front-End, estou focado em construir experiências digitais excepcionais e interfaces intuitivas, estou cursando formação full-stack na instituição de ensino Devclub onde estou buscando conhecimento a partir de projetos práticos para me formar em um futuro Desenvolvedor Full-Stack.
 <br>
 
 ## 🤖 Linguagens e Tecnologias:
