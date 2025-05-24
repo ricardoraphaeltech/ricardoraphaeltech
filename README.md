@@ -13,29 +13,29 @@ Como Desenvolvedor Front-End, estou focado em construir experiências digitais e
 ## 🤖 Linguagens e Tecnologias:
 <br>
 <div>
-  <img src="./img/logo-html.png" alt="html-logo" width="60px" />
-  <img src="./img/logo-css3.png" alt="css-logo" width="60px"/>
-  <img src="./img/logo-javascript.png" alt="javascript-logo" width="60px"/>
-  <img src="./img/logo-typescript.png" alt="typescript-logo" width="60px"/>
+  <img src="./img/logo-html.png" alt="html-logo" width="60px" width="20px"/>
+  <img src="./img/logo-css3.png" alt="css-logo" width="60px" width="20px"/>
+  <img src="./img/logo-javascript.png" alt="javascript-logo" width="60px" width="20px"/>
+  <img src="./img/logo-typescript.png" alt="typescript-logo" width="60px" width="20px"/>
   <img src="./img/logo-python.png" alt="python-logo" width="60px"/>    
 </div> 
 <br>
 
 ## 🎨 Ferramentas de Design:
 <br>
-  <div>
-    <img src="./img/logo-figma.png" alt="figma-logo" width="60px" />
-    <img src="./img/logo-coreldraw.png" alt="coreldraw-logo" width="60px" />
-  </div>
+<div>
+    <img src="./img/logo-figma.png" alt="figma-logo" width="60px" width="20px"/>
+    <img src="./img/logo-coreldraw.png" alt="coreldraw-logo" width="60px"/>
+</div>
 <br>
 
 ## 💻 Estou buscando conhecimento em:
 <br>
-  <div>
-    <img src="./img/logo-react.png" alt="react-logo" width="60px" />
-    <img src="./img/logo-angular.png" alt="angular-logo" width="60px" />
+<div>
+    <img src="./img/logo-react.png" alt="react-logo" width="60px" width="20px"/>
+    <img src="./img/logo-angular.png" alt="angular-logo" width="60px" width="20px"/>
     <img src="./img/logo-nodejs.png" alt="nodejs-logo" width="75px" />
-  </div>
+</div>
 <br>
 
 ## 📱 Contatos:
