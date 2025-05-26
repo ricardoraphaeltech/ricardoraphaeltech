@@ -55,7 +55,7 @@ Como Desenvolvedor Front-End, estou focado em construir experiências digitais e
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoraphaeltech)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-## GitHub Contribution Snake
+<h2><img src="./img/snake-pixel.png" alt="logo-snake" width="15px" />GitHub Contribution Snake</h2>
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardoraphaeltech/ricardoraphaeltech/output/github-contribution-grid-snake-dark.svg">
