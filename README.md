@@ -13,39 +13,29 @@ Como Desenvolvedor Front-End, estou focado em construir experiências digitais e
 ## 🤖 Linguagens e Tecnologias:
 <br>
 <div>
-  <img align="left" src="./img/logo-html.png" alt="html-logo" width="60px" style="padding-right: 10px;"/>
-  <img align="left" src="./img/logo-css3.png" alt="css-logo" width="60px" style="padding-right: 10px;"/>
-  <img align="left" src="./img/logo-javascript.png" alt="javascript-logo" width="60px" style="padding-right: 10px;"/>
-  <img align="left" src="./img/logo-typescript.png" alt="typescript-logo" width="60px" style="padding-right: 10px;"/>
-  <img align="left" src="./img/logo-python.png" alt="python-logo" width="60px"/>    
+  <img align="center" src="./img/logo-html.png" alt="html-logo" width="60px" style="padding-right: 10px;"/>
+  <img align="center" src="./img/logo-css3.png" alt="css-logo" width="60px" style="padding-right: 10px;"/>
+  <img align="center" src="./img/logo-javascript.png" alt="javascript-logo" width="60px" style="padding-right: 10px;"/>
+  <img align="center" src="./img/logo-typescript.png" alt="typescript-logo" width="60px" style="padding-right: 10px;"/>
+  <img align="center" src="./img/logo-python.png" alt="python-logo" width="60px"/>    
 </div>
-<br>
-<br>
-
 <br>
 
 ## 🎨 Ferramentas de Design:
 <br>
 <div>
-    <img align="left" src="./img/logo-figma.png" alt="figma-logo" width="60px" style="padding-right: 10px;"/>
-    <img align="left" src="./img/logo-coreldraw.png" alt="coreldraw-logo" width="60px"/>
+    <img align="center" src="./img/logo-figma.png" alt="figma-logo" width="60px" style="padding-right: 10px;"/>
+    <img align="center" src="./img/logo-coreldraw.png" alt="coreldraw-logo" width="60px"/>
 </div>
-<br>
-<br>
-
-<br>
 <br>
 
 ## 💻 Estou buscando conhecimento em:
 <br>
 <div>
-    <img align="left" src="./img/logo-react.png" alt="react-logo" width="60px" style="padding-right: 10px;"/>
-    <img align="left" src="./img/logo-angular.png" alt="angular-logo" width="60px" style="padding-right: 10px;"/>
-    <img align="left" src="./img/logo-nodejs.png" alt="nodejs-logo" width="75px" />
+    <img align="center" src="./img/logo-react.png" alt="react-logo" width="60px" style="padding-right: 10px;"/>
+    <img align="center" src="./img/logo-angular.png" alt="angular-logo" width="60px" style="padding-right: 10px;"/>
+    <img align="center" src="./img/logo-nodejs.png" alt="nodejs-logo" width="75px" />
 </div>
-<br>
-<br>
-
 <br>
 
 ## 📱 Contatos:
@@ -60,9 +50,9 @@ Como Desenvolvedor Front-End, estou focado em construir experiências digitais e
 ##  GitHub Stats
 <br>
 
-[![Ricardo Stats](https://github-readme-stats.vercel.app/api?username=ricardoraphaeltech)](https://github.com/anuraghazra/github-readme-stats)
+![ricardoraphaeltech's Stats](https://github-readme-stats.vercel.app/api?username=ricardoraphaeltech&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoraphaeltech)](https://github.com/anuraghazra/github-readme-stats)
+![ricardoraphaeltech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoraphaeltech&theme=radical&show_icons=true&hide_border=false&layout=compact)
 <br>
 
 <h2><img align="left" src="./img/snake-pixel.png" alt="logo-snake" width="15px" />GitHub Contribution Snake</h2>
