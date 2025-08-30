@@ -1,64 +1,54 @@
+<h2 align="left">Oi! Sou Ricardo Raphael, Desenvolvedor Front-end. Seja Bem-Vindo!👋​</h2>
+
+###
+
 <div align="center">
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4800&pause=1000&width=550&height=55&lines=Ol%C3%A1%2C+eu+sou+Ricardo+Raphael;Sou+um+Desenvolvedor+Front-end" alt="Typing SVG" />
- </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ricardoraphaeltech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoraphaeltech&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="140" alt="languages graph"  />
 </div>
 
-## 👨‍💻 Sobre mim:
-Meu nome é Ricardo, moro em Sorocaba São Paulo, sou Desenvolvedor Front-End e atualmente estou fazendo minha transição de carreira e me especializando para conseguir minha primeira oportunidade como Desenvolvedor Front-End Jr.<br>
-<br>
-Como Desenvolvedor Front-End, estou focado em construir experiências digitais excepcionais e interfaces intuitivas, estou cursando formação full-stack na instituição de ensino Devclub onde estou buscando conhecimento a partir de projetos práticos para me formar em um futuro Desenvolvedor Full-Stack.
-<br>
+###
 
-## 🤖 Linguagens e Tecnologias:
-<br>
-<div>
-  <img align="center" src="./img/logo-html.png" alt="html-logo" width="60px" style="padding-right: 10px;"/>
-  <img align="center" src="./img/logo-css3.png" alt="css-logo" width="60px" style="padding-right: 10px;"/>
-  <img align="center" src="./img/logo-javascript.png" alt="javascript-logo" width="60px" style="padding-right: 10px;"/>
-  <img align="center" src="./img/logo-typescript.png" alt="typescript-logo" width="60px" style="padding-right: 10px;"/>
-  <img align="center" src="./img/logo-python.png" alt="python-logo" width="60px"/>    
+<img align="right" height="155" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
 </div>
-<br>
 
-## 🎨 Ferramentas de Design:
-<br>
-<div>
-    <img align="center" src="./img/logo-figma.png" alt="figma-logo" width="60px" style="padding-right: 10px;"/>
-    <img align="center" src="./img/logo-coreldraw.png" alt="coreldraw-logo" width="60px"/>
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-<br>
 
-## 💻 Estou buscando conhecimento em:
-<br>
-<div>
-    <img align="center" src="./img/logo-react.png" alt="react-logo" width="60px" style="padding-right: 10px;"/>
-    <img align="center" src="./img/logo-angular.png" alt="angular-logo" width="60px" style="padding-right: 10px;"/>
-    <img align="center" src="./img/logo-nodejs.png" alt="nodejs-logo" width="75px" />
+###
+
+<br clear="both">
+
+<div  align="center">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardoraphaeltech/ricardoraphaeltech/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardoraphaeltech/ricardoraphaeltech/output/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ricardoraphaeltech/ricardoraphaeltech/output/github-contribution-grid-snake.svg">
+ </picture>
 </div>
-<br>
 
-## 📱 Contatos:
-<br>
-  - <a href="mailto:riraphaelusa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  - <a href="https://www.facebook.com/ricardo.raphael.75?locale=pt_BR"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  - <a href="https://www.instagram.com/ricardoapraphael/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  - <a href="https://www.linkedin.com/in/ricardo-raphael-4771b428b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br>
-<br> 
-
-##  GitHub Stats
-<br>
-
-![ricardoraphaeltech's Stats](https://github-readme-stats.vercel.app/api?username=ricardoraphaeltech&theme=radical&show_icons=true&hide_border=false&count_private=true)
-
-![ricardoraphaeltech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoraphaeltech&theme=radical&show_icons=true&hide_border=false&layout=compact)
-<br>
-
-<h2><img align="left" src="./img/snake-pixel.png" alt="logo-snake" width="15px" />GitHub Contribution Snake</h2>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardoraphaeltech/ricardoraphaeltech/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardoraphaeltech/ricardoraphaeltech/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ricardoraphaeltech/ricardoraphaeltech/output/github-contribution-grid-snake.svg">
-</picture>
+###
