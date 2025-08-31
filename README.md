@@ -1,4 +1,11 @@
-<h2 align="left">Oi! Sou Ricardo Raphael, Desenvolvedor Front-end. Seja Bem-Vindo!👋​</h2>
+<h2 align="center">Desenvolvedor Front-end! Seja Bem-Vindo(a)👋​</h2>
+
+###
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=470&lines=Oi%2C+Meu+nome+%C3%A9+Ricardo!;Sou+Desenvolvedor+Front-End!;Bem-Vindo(a)+ao+meu+perfil!+%F0%9F%91%8B%E2%80%8B" alt="Typing SVG" /></a>
+</div>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #fde047, #facc15, #fbbf24);" />
 
 ###
 
