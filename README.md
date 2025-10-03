@@ -27,7 +27,13 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
   <img width="8" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="react logo"  />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="32" alt="mongodb logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
   <img width="8" />
@@ -53,6 +59,9 @@
   </a>
   <a href="https://www.linkedin.com/in/ricardoapraphael/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> 
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  /> 
   </a>
 </div>
 
