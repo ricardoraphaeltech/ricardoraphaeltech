@@ -29,6 +29,8 @@
   <img width="8" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="react logo"  />
   <img width="8" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="tailwindcss logo"  />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="32" alt="mongodb logo"  />
